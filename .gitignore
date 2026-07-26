@@ -67,3 +67,20 @@ vcpkg_installed/
 # test output & cache
 Testing/
 .cache/
+
+# Compiled executables
+*.exe
+*.out
+
+# Object files
+*.o
+*.obj
+
+# Audio files
+*.wav
+
+# User data
+usuarios.txt
+
+# Dev-C++
+*.layout
